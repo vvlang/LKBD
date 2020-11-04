@@ -3,7 +3,7 @@
 LKBD Cherry V1 by vvlang
 
 ##配件
-| 名前 | 数 | 備考 | 
+| 名前 | 数 | 備考 |
 |:-|:-|:-|
 | 键盘PCB电路板 | 1套 | |
 | 亚克力板 | 2套 | |
@@ -26,7 +26,7 @@ LKBD Cherry V1 by vvlang
 
 ##准备工作
 可以选择我的固件，也可以刷自己构建的固件。
-下载好固件使用工具刷到ProMicro中 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) 
+下载好固件使用工具刷到ProMicro中 [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 
 ##更改键位
-下载VIA工具 [VIA工具]（https://github.com/the-via/releases/releases/）即可更改
+下载VIA工具 [VIA工具](https://github.com/the-via/releases/releases/)即可更改.
