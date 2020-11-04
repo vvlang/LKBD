@@ -2,7 +2,7 @@
 
 LKBD Cherry V1 by vvlang
 
-##配件
+## 配件
 | 名前 | 数 | 備考 |
 |:-|:-|:-|
 | 键盘PCB电路板 | 1套 | |
@@ -24,9 +24,9 @@ LKBD Cherry V1 by vvlang
 | SK6812MINI-E | 42个 | 反贴（按键灯需要） |
 | WS2812B | 12个 | 氛围灯 |
 
-##准备工作
+## 准备工作
 可以选择我的固件，也可以刷自己构建的固件。
 下载好固件使用工具刷到ProMicro中 [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 
-##更改键位
+## 更改键位
 下载VIA工具 [VIA工具](https://github.com/the-via/releases/releases/)即可更改.
