@@ -29,4 +29,4 @@ LKBD Cherry V1 by vvlang
 下载好固件使用工具刷到ProMicro中 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) 
 
 ##更改键位
-下载VIA工具[VIA工具]（https://github.com/the-via/releases/releases/）即可更改
+下载VIA工具 [VIA工具]（https://github.com/the-via/releases/releases/）即可更改
